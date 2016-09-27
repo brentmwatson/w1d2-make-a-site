@@ -1,0 +1,46 @@
+header{
+  background-color: #f0f0f0;
+  border: 10px: #ffffff;
+  height: 350px;
+  margin: 0px auto;
+  position fixed;
+  top:0px;
+  width: 100% auto;
+}
+/
+#header{
+
+}
+.header {
+  height: 50px;
+
+}
+main{
+  background-color: #a3a3a3;
+  margin: 20px auto;
+}
+body{
+  margin: 10px;
+  padding-left: 20px;
+}
+footer{
+
+}
+h1 {
+  font-size: 24px;
+  font color: #424242;
+}
+h2 {
+  font-size: 18px;
+  font color: #424242;
+}
+p {
+  font-size: 12px;
+  font color: #c9c9c9;
+}
+#firstID {
+
+}
+.bigCLASS {
+
+}
