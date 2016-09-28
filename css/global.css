@@ -1,46 +1,113 @@
+/* color pallet
+586994 blue
+7D869C grey blue
+A2ABAB grey
+000000
+2f4550 charcoal
+
+*/
+
+body{
+    width: 100%;
+    margin: 0px;
+  margin: 0 auto;
+}
+
+footer{
+  background-color: #2f4550;
+  height: 150px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 28px;
+  color: #A2ABAB;
+  text-align: center;
+  text-shadow: 3px 3px 9px #7D869C;
+  padding: 120px 20px 20px 20px;
+}
+
+h2 {
+  color: #A2ABAB;
+  font-size: 18px;
+  padding: 35px 265px 15px 20px;
+  text-shadow: 3px 3px 9px #7D869C;
+}
+h3 {
+  color: #A2ABAB;
+  font-size: 18px;
+  padding: 35px 265px 15px 20px;
+  text-shadow: 3px 3px 9px #7D869C;
+}
+
 header{
-  background-color: #f0f0f0;
-  border: 10px: #ffffff;
-  height: 350px;
-  margin: 0px auto;
-  position fixed;
+  background: url(../img/djbrent.jpg);
+  background-position:left;
+  background-size: cover;
+  height: 380px;
+  max-width: 900px;
+  margin: 0 auto;
   top:0px;
   width: 100% auto;
 }
-/
-#header{
-
+.headernavigation{
+  height: 100px;
+  padding: 0px 0px 0px 0px;
 }
-.header {
-  height: 50px;
 
-}
 main{
-  background-color: #a3a3a3;
-  margin: 20px auto;
-}
-body{
-  margin: 10px;
-  padding-left: 20px;
-}
-footer{
+  background-color: #A2ABAB;
+  font color: #000000;
+  margin: 0 auto;
+  max-width: 780px;
+  width: 90%;
 
 }
-h1 {
-  font-size: 24px;
-  font color: #424242;
-}
-h2 {
-  font-size: 18px;
-  font color: #424242;
+.navigation{
+  text-align: center;
 }
 p {
   font-size: 12px;
   font color: #c9c9c9;
 }
-#firstID {
+
+/*
+.header {
+  height: 50px;
 
 }
-.bigCLASS {
-
+*/
+/*
+body {
+    text-align:center;
 }
+
+.ugly, .beautiful, button {
+    width: 250px;
+}
+
+.ugly {
+    background-color: rgb(27, 99, 157);
+    border: 20px solid red;
+    border-top: 5px solid blue;
+}
+
+.beautiful {
+    background: transparent;
+    border: 2px solid blue;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    transition: all .3s ease;
+}
+
+.beautiful:hover {
+    transform: scale(2) rotate(-45deg);
+    border: 2px solid red;
+}
+
+button > span {
+    font-size: 50px;
+}
+*/
